@@ -1,0 +1,2 @@
+# models.py will contain all the database models ( how we interact with the database )
+# we use Flask-SQLAlchemy to create a python class which represents some kind of entry/row for the database/some kind of a table and we define the different columns and data that the class/objects will be storing
